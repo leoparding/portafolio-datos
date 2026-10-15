@@ -26,14 +26,19 @@ entre sí (1.00), mientras que la tarifa fija tiene una correlación moderada co
 **PowerBI**: https://unadvirtualedu-my.sharepoint.com/:u:/g/personal/cfoyolac_unadvirtual_edu_co/IQBdTii6qG_-QJ_dPIYoXgvOAR7YEtxA_tofGt5ZQ3EcKDI?e=asywWJ 
 
 ## Visualizaciones
-![Registros por año y tipo de uso](<img width="1185" height="484" alt="image" src="https://github.com/user-attachments/assets/421334b1-eb89-401e-b473-5acb7fa1ce89" />
-)
-![Evolución de la tarifa básica promedio](<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/aa22eb72-1237-41b4-abbd-42d068012ff0" />
-)
-![Tarifa básica por estrato (residencial)](<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/43c4a471-1020-4d09-aeb5-dbb26efb16e5" />
-)
-![Comparación de tarifas por tipo de uso](<img width="1185" height="484" alt="image" src="https://github.com/user-attachments/assets/e6c9aa41-6ae6-495c-a0d6-82aa4426bf83" />
-)
-![Mapa de calor de correlaciones]<img width="668" height="584" alt="image" src="https://github.com/user-attachments/assets/6cdce6a0-a805-4f26-aa5c-c93c67b32f56" />
+Registros por año y tipo de uso
+<img width="1185" height="484" alt="image" src="https://github.com/user-attachments/assets/421334b1-eb89-401e-b473-5acb7fa1ce89" />
+
+Evolución de la tarifa básica promedio
+<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/aa22eb72-1237-41b4-abbd-42d068012ff0" />
+
+Tarifa básica por estrato (residencial).
+<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/43c4a471-1020-4d09-aeb5-dbb26efb16e5" />
+
+Comparación de tarifas por tipo de uso 
+<img width="1185" height="484" alt="image" src="https://github.com/user-attachments/assets/e6c9aa41-6ae6-495c-a0d6-82aa4426bf83" />
+
+Mapa de calor de correlaciones
+<img width="668" height="584" alt="image" src="https://github.com/user-attachments/assets/6cdce6a0-a805-4f26-aa5c-c93c67b32f56" />
 
  
