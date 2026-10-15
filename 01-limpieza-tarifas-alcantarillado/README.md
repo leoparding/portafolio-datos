@@ -24,3 +24,6 @@ entre sí (1.00), mientras que la tarifa fija tiene una correlación moderada co
 **Enlace:** Notebook en Colab: https://colab.research.google.com/drive/1ol0T0xpmv-6m0lfwg8TjIiVAtG4wTf6y?usp=sharing
 
 **PowerBI**: https://unadvirtualedu-my.sharepoint.com/:u:/g/personal/cfoyolac_unadvirtual_edu_co/IQBdTii6qG_-QJ_dPIYoXgvOAR7YEtxA_tofGt5ZQ3EcKDI?e=asywWJ 
+
+<img width="700" height="438" alt="images (1)" src="https://github.com/user-attachments/assets/5e88c783-de15-46eb-9818-ac74f1328207" />
+
