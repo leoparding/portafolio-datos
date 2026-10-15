@@ -22,3 +22,5 @@ rangos más bajos y de comportamiento similar. El mapa de calor confirma que est
 entre sí (1.00), mientras que la tarifa fija tiene una correlación moderada con ellas (0.58).
 
 **Enlace:** Notebook en Colab: https://colab.research.google.com/drive/1ol0T0xpmv-6m0lfwg8TjIiVAtG4wTf6y?usp=sharing
+
+**PowerBI**: https://unadvirtualedu-my.sharepoint.com/:u:/g/personal/cfoyolac_unadvirtual_edu_co/IQBdTii6qG_-QJ_dPIYoXgvOAR7YEtxA_tofGt5ZQ3EcKDI?e=asywWJ 
