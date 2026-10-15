@@ -39,6 +39,7 @@ Comparación de tarifas por tipo de uso
 <img width="1185" height="484" alt="image" src="https://github.com/user-attachments/assets/e6c9aa41-6ae6-495c-a0d6-82aa4426bf83" />
 
 Mapa de calor de correlaciones
+
 <img width="668" height="584" alt="image" src="https://github.com/user-attachments/assets/6cdce6a0-a805-4f26-aa5c-c93c67b32f56" />
 
  
