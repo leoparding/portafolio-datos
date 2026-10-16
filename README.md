@@ -13,7 +13,7 @@ El objetivo fue transformarlos a un formato limpio, con un registro por país y 
 - Convertí los tipos de datos (año y valores a numérico) y eliminé los registros con valores nulos.
 - Exporté dos archivos limpios (inflacion_limpia.xlsx e indice_limpio.xlsx) listos para conectar a Tableau.
 
-**Resultado:** Dos datasets limpios en formato largo (un registro por país y año), sin valores nulos y listos para conectar a Tableau. [1 frase de lo que muestra tu presentación.]
+**Resultado:** Dos datasets limpios en formato largo (un registro por país y año), sin valores nulos y listos para conectar a Tableau. 
 
 **Enlace:** Notebook en Colab: https://drive.google.com/file/d/1QowYHS4ujIUTl41kDX2RGsia84tL135B/view?usp=sharing 
 Dashboard en Tableau Public: https://public.tableau.com/views/AnalisisMundial/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
